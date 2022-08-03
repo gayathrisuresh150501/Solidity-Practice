@@ -1,0 +1,12 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.13;
+
+contract DataTypes
+{
+    uint public num1;
+    uint8 public num2;
+    string public string1;
+    bytes public byteType;
+    bool public bool1;
+    address public address1;
+}
